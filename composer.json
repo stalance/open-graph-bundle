@@ -31,7 +31,7 @@
         }
     ],
     "require": {
-        "php": "~7.2",
+        "php": "^8.0",
 
         "symfony/framework-bundle": "~3.4|~4.0",
         "symfony/config": "~3.4|~4.0",
